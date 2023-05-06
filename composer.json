@@ -29,7 +29,7 @@
     "require": {
         "php": "^8.0",
         "google/cloud-translate": "^1.2",
-        "illuminate/support": "9.*"
+        "illuminate/support": "10.*"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
